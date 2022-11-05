@@ -19,7 +19,7 @@ function optionMenu() {
 }
 
 const baseImageFigure = new Image();
-baseImageFigure.src = "./basetexto.png?v=2";
+baseImageFigure.src = "./basetexto.png?v=3";
 
 const baseImageFiltro = new Image();
 baseImageFiltro.src = "./molduraescolha.png?v=2";
