@@ -30,7 +30,7 @@ baseImageMascara.src = "./mascarafoto.png?v=2";
 let baseImageUsuario = new Image();
 
 document.getElementById("btnShare").addEventListener("click", shareImage);
-document.getElementById("btnSave").addEventListener("click", saveImage);
+// document.getElementById("btnSave").addEventListener("click", saveImage);
 
 function roundRect(ctx, x, y, width, height, radius = 5) {
   if (typeof radius === "number") {
